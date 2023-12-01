@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer both in front & back End from Pakistan!</h3>
 
 - 🏢 I’m currently working at : **Quaid College 114-A Bank Stop, Main Wahdat Road, New Muslim Town, Lahore.**
-- 🏢 Contact me : **54587dfdd@gmail.com**
+- Contact me : **54587dfdd@gmail.com**
 
 <p align="left">
 </p>
