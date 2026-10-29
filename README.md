@@ -44,15 +44,6 @@
 
 <!-- TOKEN-FLEX:START -->
 <p align="center">
-  <img src="assets/token-flex.svg" width="100%" alt="Token Flex: 84.97M tokens burned in DeepSeek Harness" />
+  <img src="assets/token-flex.svg" width="100%" alt="Token Flex: 85.07M tokens burned" />
 </p>
-
-<details><summary>Per-model breakdown</summary>
-
-| Model | Input | Output | Cache | Total |
-|---|--:|--:|--:|--:|
-| `claude-sonnet-5-5` | 948 | 452.4K | 80.30M | **80.75M** |
-| `deepseek-flash` | 80.5K | 44.9K | 4.09M | **4.22M** |
-
-</details>
 <!-- TOKEN-FLEX:END -->
