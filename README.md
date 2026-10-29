@@ -39,3 +39,20 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=5Y3D-Bilal&bg_color=050505&color=6b6b6b&line=c6ff00&point=f4f4f4&area=true&area_color=c6ff00&hide_border=true" alt="Contribution activity graph" />
 </p>
+
+## `04 — TOKEN FLEX`
+
+<!-- TOKEN-FLEX:START -->
+<p align="center">
+  <img src="assets/token-flex.svg" width="100%" alt="Token Flex: 84.97M tokens burned in DeepSeek Harness" />
+</p>
+
+<details><summary>Per-model breakdown</summary>
+
+| Model | Input | Output | Cache | Total |
+|---|--:|--:|--:|--:|
+| `claude-sonnet-5-5` | 948 | 452.4K | 80.30M | **80.75M** |
+| `deepseek-flash` | 80.5K | 44.9K | 4.09M | **4.22M** |
+
+</details>
+<!-- TOKEN-FLEX:END -->
