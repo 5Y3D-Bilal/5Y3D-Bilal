@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/skyline.svg" width="100%" alt="Bilal — full-stack and creative developer from Pakistan. Skills shown as an isometric city." />
+  <img src="assets/skyline.svg" width="100%" alt="b66 — full-stack and creative developer from Pakistan. Skills shown as an isometric city." />
 </p>
 
 <p align="center">
@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:54587dfdd@gmail.com"><img src="https://img.shields.io/badge/EMAIL-54587dfdd%40gmail.com-c6ff00?style=for-the-badge&labelColor=050505" alt="email" /></a>
   <img src="https://komarev.com/ghpvc/?username=5Y3D-Bilal&label=VIEWS&color=c6ff00&labelColor=050505&style=for-the-badge" alt="profile views" />
 </p>
 
