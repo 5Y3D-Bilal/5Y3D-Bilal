@@ -30,7 +30,7 @@
 ## `03 — STACK`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,rust,python,cpp,java,html,css,react,nextjs,tailwind,vite,threejs,sass,nodejs,express,bun,tauri,qt,mongodb,firebase,appwrite,docker,kubernetes,vercel,git,github,blender,vitest,vscode&perline=10" alt="TypeScript, JavaScript, Rust, Python, C++, Java, HTML, CSS, React, Next.js, Tailwind, Vite, Three.js, Sass, Node.js, Express, Bun, Tauri, Qt, MongoDB, Firebase, Appwrite, Docker, Kubernetes, Vercel, Git, GitHub, Blender, Vitest, VS Code" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,laravel,rust,python,cpp,html,css,react,nextjs,tailwind,vite,threejs,sass,nodejs,express,bun,tauri,qt,mongodb,firebase,appwrite,docker,kubernetes,vercel,git,github,blender,vitest,vscode&perline=10" alt="TypeScript, JavaScript, Rust, Python, C++, Java, HTML, CSS, React, Next.js, Tailwind, Vite, Three.js, Sass, Node.js, Express, Bun, Tauri, Qt, MongoDB, Firebase, Appwrite, Docker, Kubernetes, Vercel, Git, GitHub, Blender, Vitest, VS Code" />
 </p>
 
 ## `04 — STATS`
