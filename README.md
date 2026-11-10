@@ -22,7 +22,7 @@
 
 <!-- TOKEN-FLEX:START -->
 <p align="center">
-  <img src="assets/token-flex.svg" width="100%" alt="Token Flex: 11.73B tokens burned" />
+  <img src="assets/token-flex.svg" width="100%" alt="Token Flex: 11.74B tokens burned" />
 </p>
 <!-- TOKEN-FLEX:END -->
 
