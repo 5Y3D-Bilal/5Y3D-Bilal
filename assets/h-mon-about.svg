@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-label="whoami">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff3a3a" stop-opacity=".9"/><stop offset="1" stop-color="#ff3a3a" stop-opacity="0"/></linearGradient>
+<filter id="gl"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="56" rx="8" fill="#0e0709"/><rect y="53" width="1200" height="2" fill="url(#g)"/>
+<g transform="translate(14 0)"><polygon points="0,10 150,10 168,28 150,46 0,46" fill="#b3202b"/><polygon points="156,10 330,10 348,28 330,46 156,46 174,28" fill="#5e0f16"/><polygon points="336,10 440,10 458,28 440,46 336,46 354,28" fill="#2a0d10"/></g>
+<text x="34" y="34" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#fff6ea">b66@pk</text><text x="188" y="34" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15" fill="#f3e6d6">~/profile</text><text x="362" y="34" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15" fill="#f19a8e">main ✓</text>
+<text x="500" y="35" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="19" fill="#ff4d4d" filter="url(#gl)">$ <tspan fill="#f3e6d6">whoami</tspan></text>
+<text x="1176" y="34" text-anchor="end" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#5d716c">exit 0</text>
+</svg>

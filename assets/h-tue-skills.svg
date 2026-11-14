@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 84" width="1200" height="84" role="img" aria-label="CONSTELLATIONS">
+<defs><linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f19a8e" stop-opacity="0"/><stop offset="1" stop-color="#f19a8e" stop-opacity=".8"/></linearGradient><linearGradient id="r" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#f19a8e" stop-opacity="0"/><stop offset="1" stop-color="#f19a8e" stop-opacity=".8"/></linearGradient>
+<radialGradient id="m" cx=".33" cy=".3" r=".9"><stop offset="0" stop-color="#ffc0ae"/><stop offset=".45" stop-color="#d12a33"/><stop offset="1" stop-color="#3a060d"/></radialGradient><radialGradient id="h"><stop offset="0" stop-color="#ff3b3b" stop-opacity=".6"/><stop offset="1" stop-color="#ff3b3b" stop-opacity="0"/></radialGradient></defs>
+<rect x="40" y="41" width="344" height="1.4" fill="url(#l)"/><rect x="856" y="41" width="344" height="1.4" fill="url(#r)"/>
+<circle cx="372" cy="42" r="22" fill="url(#h)"/><circle cx="372" cy="42" r="9" fill="url(#m)"/>
+<circle cx="828" cy="42" r="22" fill="url(#h)"/><circle cx="828" cy="42" r="9" fill="url(#m)"/>
+<text x="600" y="50" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="28" letter-spacing="10" fill="#fbe8dc">CONSTELLATIONS</text>
+</svg>
