@@ -6,19 +6,41 @@
 <linearGradient id="lp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity=".45"/></linearGradient>
 <filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#000" flood-opacity=".6"/></filter>
 <filter id="bl"><feGaussianBlur stdDeviation="9"/></filter></defs>
-<rect width="380" height="560" rx="20" fill="url(#pin)"/><rect width="380" height="560" rx="20" fill="url(#vig)"/>
-<polygon points="118,0 262,0 192,232" fill="#1a0b0e"/><polygon points="132,0 248,0 192,205" fill="url(#shirt)"/><polygon points="132,0 192,205 176,0" fill="#000" opacity=".12"/>
-<g filter="url(#sh)"><path d="M62 0 H124 L196 226 L160 262 L110 214 L96 156 L46 128 L70 70 Z" fill="url(#pin2)"/><path d="M62 0 H124 L196 226 L160 262 L110 214 L96 156 L46 128 L70 70 Z" fill="url(#lp)"/><path d="M62 0 H124 L196 226 L160 262 L110 214 L96 156 L46 128 L70 70 Z" fill="none" stroke="#f4b3a6" stroke-opacity=".6" stroke-width="2"/></g>
-<g filter="url(#sh)" transform="translate(380 0) scale(-1 1)"><path d="M62 0 H124 L196 226 L160 262 L110 214 L96 156 L46 128 L70 70 Z" fill="url(#pin2)"/><path d="M62 0 H124 L196 226 L160 262 L110 214 L96 156 L46 128 L70 70 Z" fill="url(#lp)"/><path d="M62 0 H124 L196 226 L160 262 L110 214 L96 156 L46 128 L70 70 Z" fill="none" stroke="#f4b3a6" stroke-opacity=".6" stroke-width="2"/></g>
-<circle cx="190" cy="290" r="9" fill="#2a0509" stroke="#f4b3a6" stroke-opacity=".5"/><circle cx="187" cy="287" r="2.5" fill="#fff" opacity=".4"/>
-<rect x="276" y="116" width="52" height="34" fill="#f3e6d6" opacity=".95" transform="rotate(-8 300 130)"/><path d="M280 126 L296 138 L316 122" fill="none" stroke="#a3212b" stroke-width="2" transform="rotate(-8 300 130)"/>
+<linearGradient id="bgc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a0710"/><stop offset=".55" stop-color="#1c080c"/><stop offset="1" stop-color="#0f0608"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#ff4d5a" stop-opacity=".45"/><stop offset="1" stop-color="#ff4d5a" stop-opacity="0"/></radialGradient>
+<linearGradient id="ct" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb3a8"/><stop offset="1" stop-color="#ff5a64"/></linearGradient>
+<linearGradient id="cl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d12a37"/><stop offset="1" stop-color="#7d1420"/></linearGradient>
+<linearGradient id="cr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8f1824"/><stop offset="1" stop-color="#3f0a12"/></linearGradient>
+<rect width="380" height="560" rx="20" fill="url(#bgc)"/><rect width="380" height="560" rx="20" fill="url(#glow)"/>
+<ellipse cx="190" cy="268" rx="150" ry="40" fill="none" stroke="#ff7a85" stroke-opacity=".28" stroke-width="1.2" stroke-dasharray="3 6"/>
+<ellipse cx="190" cy="352" rx="110" ry="22" fill="#000" opacity=".55" filter="url(#bl)"/>
+<g filter="url(#sh)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="7s" begin="-0s" repeatCount="indefinite"/>
+<polygon points="190,112 257.548,151 190,190 122.452,151" fill="url(#ct)"/>
+<polygon points="122.452,151 190,190 190,268 122.452,229" fill="url(#cl)"/>
+<polygon points="190,190 257.548,151 257.548,229 190,268" fill="url(#cr)"/>
+<path d="M122.452 151 L190 190 L257.548 151 M190 190 V268" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.2"/></g><g filter="url(#sh)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="5s" begin="-1.2s" repeatCount="indefinite"/>
+<polygon points="92,218 126.64,238 92,258 57.36,238" fill="url(#ct)"/>
+<polygon points="57.36,238 92,258 92,298 57.36,278" fill="url(#cl)"/>
+<polygon points="92,258 126.64,238 126.64,278 92,298" fill="url(#cr)"/>
+<path d="M57.36 238 L92 258 L126.64 238 M92 258 V298" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.2"/></g><g filter="url(#sh)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="6s" begin="-2.1s" repeatCount="indefinite"/>
+<polygon points="286,228 315.444,245 286,262 256.556,245" fill="url(#ct)"/>
+<polygon points="256.556,245 286,262 286,296 256.556,279" fill="url(#cl)"/>
+<polygon points="286,262 315.444,245 315.444,279 286,296" fill="url(#cr)"/>
+<path d="M256.556 245 L286 262 L315.444 245 M286 262 V296" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.2"/></g><g filter="url(#sh)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="4.5s" begin="-0.6s" repeatCount="indefinite"/>
+<polygon points="300,100 317.32,110 300,120 282.68,110" fill="url(#ct)"/>
+<polygon points="282.68,110 300,120 300,140 282.68,130" fill="url(#cl)"/>
+<polygon points="300,120 317.32,110 317.32,130 300,140" fill="url(#cr)"/>
+<path d="M282.68 110 L300 120 L317.32 110 M300 120 V140" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.2"/></g><g filter="url(#sh)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="5.5s" begin="-1.7s" repeatCount="indefinite"/>
+<polygon points="74,134 87.856,142 74,150 60.144,142" fill="url(#ct)"/>
+<polygon points="60.144,142 74,150 74,166 60.144,158" fill="url(#cl)"/>
+<polygon points="74,150 87.856,142 87.856,158 74,166" fill="url(#cr)"/>
+<path d="M60.144 142 L74 150 L87.856 142 M74 150 V166" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.2"/></g>
 <ellipse cx="190" cy="440" rx="130" ry="26" fill="#000" opacity=".5" filter="url(#bl)"/>
 <text x="207.6" y="444" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(42,5,9)">b66</text><text x="206.5" y="442.5" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(49,6,10)">b66</text><text x="205.4" y="441" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(56,8,12)">b66</text><text x="204.3" y="439.5" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(62,9,13)">b66</text><text x="203.2" y="438" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(69,10,14)">b66</text><text x="202.1" y="436.5" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(76,11,15)">b66</text><text x="201" y="435" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(83,13,17)">b66</text><text x="199.9" y="433.5" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(89,14,18)">b66</text><text x="198.8" y="432" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(96,15,19)">b66</text><text x="197.7" y="430.5" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(103,16,20)">b66</text><text x="196.6" y="429" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(110,18,22)">b66</text><text x="195.5" y="427.5" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(116,19,23)">b66</text><text x="194.4" y="426" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(123,20,24)">b66</text><text x="193.3" y="424.5" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(130,21,25)">b66</text><text x="192.2" y="423" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(137,23,27)">b66</text><text x="191.1" y="421.5" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="rgb(143,24,28)">b66</text>
 <text x="190" y="420" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="url(#face)" stroke="#fff6ea" stroke-width="1.2" stroke-opacity=".7">b66</text>
 <text x="190" y="418" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="156" font-weight="700" fill="none" stroke="#fff" stroke-opacity=".5" stroke-width=".8">b66</text>
 <text x="190" y="488" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="6" fill="#f4b3a6">FULL-STACK · CREATIVE</text>
 <line x1="70" y1="506" x2="310" y2="506" stroke="#f4b3a6" stroke-opacity=".4"/>
-<text x="190" y="528" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="13" fill="#f3e6d6" opacity=".85">tailored in Pakistan</text>
-<rect x="9" y="9" width="362" height="542" rx="15" fill="none" stroke="#f3e6d6" stroke-opacity=".5" stroke-dasharray="7 5" stroke-width="1.4"/>
+<text x="190" y="528" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="13" fill="#f3e6d6" opacity=".85">from Pakistan</text>
 <rect x=".5" y=".5" width="379" height="559" rx="20" fill="none" stroke="#f4b3a6" stroke-opacity=".35"/>
 </svg>
