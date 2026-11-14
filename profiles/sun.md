@@ -1,29 +1,41 @@
 <!-- theme: Crimson Pinstripe -->
 <!-- accent: ff4d5a -->
+<!-- tokenstyle: sun -->
+<table align="center">
+<tr>
+<td width="372" valign="top" align="center">
 
-<p align="center">
-  <img src="assets/banner-sun.svg" width="100%" alt="b66 — full-stack and creative developer from Pakistan. Crimson pinstripe banner." />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=700&color=ff4d5a&background=00000000&center=true&vCenter=true&width=640&lines=Tailored%20web%20apps%20with%20Next.js%20%2B%20React%20%2B%20TypeScript;Desktop%20apps%20with%20Tauri%20%2B%20Rust;3D%20%26%20motion%20with%20Three.js%20and%20GSAP;APIs%20with%20Node%2C%20Bun%20%26%20MongoDB" alt="Tailored web apps with Next.js + React + TypeScript · Desktop apps with Tauri + Rust · 3D & motion with Three.js and GSAP · APIs with Node, Bun & MongoDB" />
-</p>
+<img src="assets/banner-sun.svg" width="360" alt="b66 crimson pinstripe tailored hero" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=5Y3D-Bilal&label=VIEWS&color=ff4d5a&labelColor=140a0c&style=for-the-badge" alt="profile views" />
 </p>
 
-<h2 align="center">✦ THE FITTING ✦</h2>
+</td>
+<td valign="top">
 
 <p align="center">
-  🇵🇰 Developer from <b>Pakistan</b> · frontend at heart, full-stack in practice<br/>
-  ⚛️ <b>Next.js · React · TypeScript · Tailwind</b><br/>
-  🦀 <b>Tauri + Rust</b> desktop &amp; mobile, plus <b>C++ / Qt</b><br/>
-  🧊 <b>Three.js · GSAP · Blender</b> for 3D &amp; motion<br/>
-  🛠️ <b>Node · Bun · Express · MongoDB · Firebase</b> on the back
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=700&color=ff4d5a&background=00000000&center=true&vCenter=true&width=460&lines=Tailored%20web%20apps%20%C2%B7%20Next.js%20%2B%20TypeScript;Desktop%20apps%20%C2%B7%20Tauri%20%2B%20Rust;3D%20%26%20motion%20%C2%B7%20Three.js%20%2B%20GSAP;APIs%20%C2%B7%20Node%2C%20Bun%20%26%20MongoDB" alt="Tailored web apps · Next.js + TypeScript · Desktop apps · Tauri + Rust · 3D &amp; motion · Three.js + GSAP · APIs · Node, Bun &amp; MongoDB" />
 </p>
 
-<h2 align="center">✦ TOKEN FLEX ✦</h2>
+<img src="assets/h-sun-about.svg" width="100%" alt="The Fitting" />
+
+<p>
+  <b>b66</b>, a developer from <b>Pakistan</b>. Frontend at heart, full-stack in practice.<br/><br/>
+  Cut from <b>Next.js · React · TypeScript · Tailwind</b> on the web, <b>Tauri + Rust</b> and <b>C++ / Qt</b> on the desktop, <b>Three.js · GSAP · Blender</b> for 3D &amp; motion, and lined with <b>Node · Bun · Express · MongoDB · Firebase</b> underneath.
+</p>
+
+<img src="assets/h-sun-skills.svg" width="100%" alt="The Wardrobe" />
+
+<img src="assets/skills-sun.svg" width="100%" alt="Skills: TypeScript, JavaScript, React, Next.js, Tailwind, Rust, Tauri, C++, Qt, Three.js, GSAP, Blender, Node, Bun, Express, MongoDB, Firebase" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/h-sun-token.svg" width="70%" alt="The Price Tag" />
+</p>
 
 <!-- TOKEN-FLEX:START -->
 <p align="center">
@@ -31,13 +43,9 @@
 </p>
 <!-- TOKEN-FLEX:END -->
 
-<h2 align="center">✦ THE WARDROBE ✦</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,laravel,rust,python,c,cpp,cs,cmake,lua,html,css,react,nextjs,tailwind,vite,threejs,sass,nodejs,express,bun,tauri,qt,mongodb,firebase,appwrite,docker,kubernetes,vercel,git,github,blender,vitest,vscode&perline=10" alt="Tech stack" />
+  <img src="assets/h-sun-record.svg" width="70%" alt="The Record" />
 </p>
-
-<h2 align="center">✦ THE RECORD ✦</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Y3D-Bilal&show_icons=true&hide_border=true&bg_color=140a0c&title_color=ff4d5a&icon_color=ff4d5a&text_color=f3e6d6&count_private=true&include_all_commits=true" alt="GitHub stats" />

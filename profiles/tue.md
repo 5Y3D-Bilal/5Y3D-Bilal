@@ -1,8 +1,8 @@
 <!-- theme: Blood Moon -->
 <!-- accent: ff5a4d -->
-
+<!-- tokenstyle: tue -->
 <p align="center">
-  <img src="assets/banner-tue.svg" width="100%" alt="b66 — blood moon banner" />
+  <img src="assets/banner-tue.svg" width="100%" alt="b66 blood moon: layered mountains, fog and a red moon over pine silhouettes" />
 </p>
 
 <p align="center">
@@ -13,17 +13,28 @@
   <img src="https://komarev.com/ghpvc/?username=5Y3D-Bilal&label=VIEWS&color=ff5a4d&labelColor=0d0206&style=for-the-badge" alt="profile views" />
 </p>
 
-> *"Frontend at heart, full-stack in practice."*
+<p align="center">
+  <img src="assets/h-tue-about.svg" width="80%" alt="Under the moon" />
+</p>
 
-### ☾ &nbsp;Under the moon
+<p align="center">
+  <i>Frontend at heart, full-stack in practice.</i><br/><br/>
+  I'm <b>b66</b>, building from <b>Pakistan</b> after dark,<br/>
+  where interfaces glow in <b>Next.js, React &amp; TypeScript</b>,<br/>
+  desktop apps are forged in <b>Tauri + Rust</b> and <b>C++ / Qt</b>,<br/>
+  small worlds turn in <b>Three.js, GSAP &amp; Blender</b>,<br/>
+  and quiet servers hum on <b>Node, Bun, Express, MongoDB &amp; Firebase</b>.
+</p>
 
-| 🌑 Craft | 🌒 Backbone |
-|---|---|
-| ⚛️ **Next.js, React, TypeScript & Tailwind** | 🛠️ **Node, Bun, Express** |
-| 🧊 **Three.js, GSAP & Blender** | 🍃 **MongoDB & Firebase** |
-| 🦀 **Tauri + Rust**, C++ / Qt | 🇵🇰 Building from **Pakistan** |
+<p align="center">
+  <img src="assets/h-tue-skills.svg" width="80%" alt="Constellations" />
+</p>
 
-### ☾ &nbsp;Token flex
+<img src="assets/skills-tue.svg" width="100%" alt="Skills as constellations: web, desktop, 3D and motion, backend" />
+
+<p align="center">
+  <img src="assets/h-tue-token.svg" width="80%" alt="Orbit" />
+</p>
 
 <!-- TOKEN-FLEX:START -->
 <p align="center">
@@ -31,13 +42,9 @@
 </p>
 <!-- TOKEN-FLEX:END -->
 
-### ☾ &nbsp;Arsenal
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,laravel,rust,python,c,cpp,cs,cmake,lua,html,css,react,nextjs,tailwind,vite,threejs,sass,nodejs,express,bun,tauri,qt,mongodb,firebase,appwrite,docker,kubernetes,vercel,git,github,blender,vitest,vscode&perline=10" alt="Tech stack" />
+  <img src="assets/h-tue-record.svg" width="80%" alt="Phases" />
 </p>
-
-### ☾ &nbsp;Phases
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Y3D-Bilal&show_icons=true&hide_border=true&bg_color=0d0206&title_color=ff5a4d&icon_color=ff5a4d&text_color=fbe8dc&count_private=true&include_all_commits=true" alt="GitHub stats" />

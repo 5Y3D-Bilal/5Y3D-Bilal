@@ -1,8 +1,8 @@
 <!-- theme: Ruby Glass -->
 <!-- accent: ff4f7b -->
-
+<!-- tokenstyle: thu -->
 <p align="center">
-  <img src="assets/banner-thu.svg" width="100%" alt="b66 — ruby glass banner" />
+  <img src="assets/banner-thu.svg" width="100%" alt="b66 ruby glass: stacked isometric glass plates with ruby light" />
 </p>
 
 <p align="center">
@@ -13,19 +13,23 @@
   <img src="https://komarev.com/ghpvc/?username=5Y3D-Bilal&label=VIEWS&color=ff4f7b&labelColor=16050b&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="center">♦ ABOUT ♦</h3>
+<p align="center">
+  <img src="assets/h-thu-about.svg" width="70%" alt="About" />
+</p>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">⚛️<br/><b>Web</b><br/><sub>Next.js · React<br/>TypeScript · Tailwind</sub></td>
-<td align="center" width="25%">🦀<br/><b>Desktop</b><br/><sub>Tauri + Rust<br/>C++ / Qt</sub></td>
-<td align="center" width="25%">🧊<br/><b>3D &amp; Motion</b><br/><sub>Three.js · GSAP<br/>Blender</sub></td>
-<td align="center" width="25%">🛠️<br/><b>Backend</b><br/><sub>Node · Bun · Express<br/>MongoDB · Firebase</sub></td>
-</tr>
-</table>
-<p align="center"><sub>🇵🇰 Developer from Pakistan — frontend at heart, full-stack in practice</sub></p>
+<img src="assets/about-thu.svg" width="100%" alt="About: Web (Next.js, React, TypeScript, Tailwind), Desktop (Tauri + Rust, C++ / Qt), 3D &amp; Motion (Three.js, GSAP, Blender), Backend (Node, Bun, Express, MongoDB, Firebase)" />
 
-<h3 align="center">♦ TOKEN FLEX ♦</h3>
+<p align="center"><sub>Developer from Pakistan: frontend at heart, full-stack in practice</sub></p>
+
+<p align="center">
+  <img src="assets/h-thu-skills.svg" width="70%" alt="Stack" />
+</p>
+
+<img src="assets/skills-thu.svg" width="100%" alt="Skills as floating glass chips" />
+
+<p align="center">
+  <img src="assets/h-thu-token.svg" width="70%" alt="Token Flex" />
+</p>
 
 <!-- TOKEN-FLEX:START -->
 <p align="center">
@@ -33,13 +37,9 @@
 </p>
 <!-- TOKEN-FLEX:END -->
 
-<h3 align="center">♦ STACK ♦</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,laravel,rust,python,c,cpp,cs,cmake,lua,html,css,react,nextjs,tailwind,vite,threejs,sass,nodejs,express,bun,tauri,qt,mongodb,firebase,appwrite,docker,kubernetes,vercel,git,github,blender,vitest,vscode&perline=10" alt="Tech stack" />
+  <img src="assets/h-thu-record.svg" width="70%" alt="Stats" />
 </p>
-
-<h3 align="center">♦ STATS ♦</h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Y3D-Bilal&show_icons=true&hide_border=true&bg_color=16050b&title_color=ff4f7b&icon_color=ff4f7b&text_color=fff0f2&count_private=true&include_all_commits=true" alt="GitHub stats" />

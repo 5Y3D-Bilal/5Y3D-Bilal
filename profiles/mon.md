@@ -1,8 +1,8 @@
 <!-- theme: Noir Terminal -->
 <!-- accent: ff4d4d -->
-
+<!-- tokenstyle: mon -->
 <p align="center">
-  <img src="assets/banner-mon.svg" width="100%" alt="b66 — noir terminal banner" />
+  <img src="assets/banner-mon.svg" width="100%" alt="b66 noir terminal: a tilted 3D terminal window typing whoami, cat stack.txt, git push" />
 </p>
 
 <p align="center">
@@ -13,17 +13,23 @@
   <img src="https://komarev.com/ghpvc/?username=5Y3D-Bilal&label=VIEWS&color=ff4d4d&labelColor=0a0708&style=for-the-badge" alt="profile views" />
 </p>
 
-## `$ whoami`
+<img src="assets/h-mon-about.svg" width="100%" alt="$ whoami" />
 
 ```text
 b66 :: full-stack & creative developer
 region  : Pakistan
-focus   : web (Next.js/React/TS) · desktop (Tauri+Rust, C++/Qt)
+focus   : web (Next.js / React / TypeScript / Tailwind)
+          desktop (Tauri + Rust, C++ / Qt)
 craft   : 3D & motion (Three.js, GSAP, Blender)
 backend : Node · Bun · Express · MongoDB · Firebase
+status  : frontend at heart, full-stack in practice
 ```
 
-## `$ cat token_flex.log`
+<img src="assets/h-mon-skills.svg" width="100%" alt="$ ls -la ./stack" />
+
+<img src="assets/skills-mon.svg" width="100%" alt="Skills as htop bars: TypeScript, JavaScript, React, Next.js, Tailwind, Rust, Tauri, C++, Qt, Three.js, GSAP, Blender, Node, Bun, Express, MongoDB, Firebase" />
+
+<img src="assets/h-mon-token.svg" width="100%" alt="$ cat token_flex.log" />
 
 <!-- TOKEN-FLEX:START -->
 <p align="center">
@@ -31,13 +37,11 @@ backend : Node · Bun · Express · MongoDB · Firebase
 </p>
 <!-- TOKEN-FLEX:END -->
 
-## `$ ls ./stack`
+<img src="assets/h-mon-record.svg" width="100%" alt="$ git log --stat" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,laravel,rust,python,c,cpp,cs,cmake,lua,html,css,react,nextjs,tailwind,vite,threejs,sass,nodejs,express,bun,tauri,qt,mongodb,firebase,appwrite,docker,kubernetes,vercel,git,github,blender,vitest,vscode&perline=10" alt="Tech stack" />
-</p>
-
-## `$ git log --stat`
+```text
+# widgets below are rendered from the GitHub API
+```
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Y3D-Bilal&show_icons=true&hide_border=true&bg_color=0a0708&title_color=ff4d4d&icon_color=ff4d4d&text_color=f3e6d6&count_private=true&include_all_commits=true" alt="GitHub stats" />

@@ -1,8 +1,8 @@
-<!-- theme: Synthwave Red -->
+<!-- theme: Synthwave -->
 <!-- accent: ff2e63 -->
-
+<!-- tokenstyle: fri -->
 <p align="center">
-  <img src="assets/banner-fri.svg" width="100%" alt="b66 — synthwave red banner" />
+  <img src="assets/banner-fri.svg" width="100%" alt="b66 synthwave arcade: chrome 3D lettering over a neon perspective grid with a striped sun" />
 </p>
 
 <p align="center">
@@ -13,18 +13,15 @@
   <img src="https://komarev.com/ghpvc/?username=5Y3D-Bilal&label=VIEWS&color=ff2e63&labelColor=12020a&style=for-the-badge" alt="profile views" />
 </p>
 
-## ▶ PLAYER SELECT
+<img src="assets/h-fri-about.svg" width="100%" alt="Player select" />
 
-```text
- PLAYER   : b66
- CLASS    : Full-stack & Creative Developer
- REGION   : Pakistan
- MAIN     : Next.js · React · TypeScript · Tailwind
- SIDE     : Tauri + Rust · C++ / Qt · Three.js · GSAP · Blender
- SERVER   : Node · Bun · Express · MongoDB · Firebase
-```
+<img src="assets/about-fri.svg" width="100%" alt="Player 1: b66, full-stack and creative developer from Pakistan. Web: Next.js, React, TypeScript, Tailwind. Desktop: Tauri + Rust, C++ / Qt. 3D and FX: Three.js, GSAP, Blender. Server: Node, Bun, Express, MongoDB, Firebase." />
 
-## ▶ SCORE (TOKENS BURNED)
+<img src="assets/h-fri-skills.svg" width="100%" alt="Inventory" />
+
+<img src="assets/skills-fri.svg" width="100%" alt="Inventory of skills: TypeScript, JavaScript, React, Next.js, Tailwind, Rust, Tauri, C++, Qt, Three.js, GSAP, Blender, Node, Bun, Express, MongoDB, Firebase" />
+
+<img src="assets/h-fri-token.svg" width="100%" alt="Hi-score" />
 
 <!-- TOKEN-FLEX:START -->
 <p align="center">
@@ -32,13 +29,7 @@
 </p>
 <!-- TOKEN-FLEX:END -->
 
-## ▶ INVENTORY
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,laravel,rust,python,c,cpp,cs,cmake,lua,html,css,react,nextjs,tailwind,vite,threejs,sass,nodejs,express,bun,tauri,qt,mongodb,firebase,appwrite,docker,kubernetes,vercel,git,github,blender,vitest,vscode&perline=10" alt="Tech stack" />
-</p>
-
-## ▶ HIGH SCORES
+<img src="assets/h-fri-record.svg" width="100%" alt="Leaderboard" />
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Y3D-Bilal&show_icons=true&hide_border=true&bg_color=12020a&title_color=ff2e63&icon_color=ff2e63&text_color=fff0ee&count_private=true&include_all_commits=true" alt="GitHub stats" />

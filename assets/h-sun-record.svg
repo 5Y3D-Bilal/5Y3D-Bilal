@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 60" width="640" height="60" role="img" aria-label="THE RECORD">
+<defs><pattern id="p" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#a3212b"/><rect x="7" width="1.8" height="16" fill="#f4b3a6" opacity=".5"/></pattern><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".18"/><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".4"/></linearGradient>
+<filter id="s"><feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000" flood-opacity=".55"/></filter></defs>
+<g filter="url(#s)"><polygon points="0,16 40,16 40,52 0,52 14,34" fill="#5e0f16"/><polygon points="640,16 600,16 600,52 640,52 626,34" fill="#5e0f16"/>
+<polygon points="26,44 40,44 40,52" fill="#2a0509"/><polygon points="614,44 600,44 600,52" fill="#2a0509"/>
+<rect x="26" y="6" width="588" height="38" fill="url(#p)"/><rect x="26" y="6" width="588" height="38" fill="url(#g)"/></g>
+<line x1="30" y1="10" x2="610" y2="10" stroke="#f3e6d6" stroke-opacity=".7" stroke-dasharray="5 4"/><line x1="30" y1="40" x2="610" y2="40" stroke="#f3e6d6" stroke-opacity=".7" stroke-dasharray="5 4"/>
+<text x="320" y="31" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="19" font-weight="700" letter-spacing="7" fill="#2a0509" opacity=".6" transform="translate(1 1.5)">THE RECORD</text>
+<text x="320" y="31" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="19" font-weight="700" letter-spacing="7" fill="#f3e6d6">THE RECORD</text>
+</svg>
