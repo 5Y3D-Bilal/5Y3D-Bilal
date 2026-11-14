@@ -1,3 +1,5 @@
+<!-- theme: Lime Skyline (original) -->
+<!-- accent: c6ff00 -->
 <p align="center">
   <img src="assets/skyline.svg" width="100%" alt="b66 — full-stack and creative developer from Pakistan. Skills shown as an isometric city." />
 </p>
