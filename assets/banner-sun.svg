@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="b66 — crimson pinstripe banner">
+<defs>
+<pattern id="st" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(-24)"><rect width="26" height="26" fill="#a3212b"/><rect width="2.4" height="26" fill="#f4b3a6" opacity=".6"/></pattern>
+<linearGradient id="sh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity=".05"/><stop offset="1" stop-color="#2a0509" stop-opacity=".75"/></linearGradient>
+<linearGradient id="vv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b0b0e"/><stop offset="1" stop-color="#0c0507"/></linearGradient>
+</defs>
+<rect width="1200" height="380" rx="16" fill="url(#st)"/><rect width="1200" height="380" rx="16" fill="url(#sh)"/>
+<path d="M0 0 L520 380 M1200 0 L680 380" stroke="#f4b3a6" stroke-opacity=".35" stroke-width="3"/>
+<path d="M0 0 L505 380 M1200 0 L695 380" stroke="#000" stroke-opacity=".25" stroke-width="10"/>
+<polygon points="370,0 830,0 600,380" fill="url(#vv)"/><polygon points="370,0 830,0 600,380" fill="none" stroke="#f4b3a6" stroke-opacity=".5" stroke-width="2"/>
+<text x="600" y="150" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="92" font-weight="700" fill="#f3e6d6" letter-spacing="2">b66</text>
+<text x="600" y="184" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="4" fill="#f19a8e">FULL-STACK · CREATIVE</text>
+<rect x="1" y="1" width="1198" height="378" rx="16" fill="none" stroke="#f4b3a6" stroke-opacity=".3"/></svg>
