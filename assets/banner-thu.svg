@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="b66 — ruby glass banner">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14030a"/><stop offset="1" stop-color="#3b0a18"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity=".03"/></linearGradient>
+<filter id="bl"><feGaussianBlur stdDeviation="46"/></filter></defs>
+<rect width="1200" height="380" rx="16" fill="url(#bg)"/>
+<g filter="url(#bl)"><circle cx="250" cy="120" r="130" fill="#ff2d55"><animate attributeName="cx" values="250;330;250" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="900" cy="290" r="150" fill="#c81e3c"><animate attributeName="cy" values="290;220;290" dur="11s" repeatCount="indefinite"/></circle>
+<circle cx="640" cy="60" r="90" fill="#ff8a9c" opacity=".8"><animate attributeName="cx" values="640;760;640" dur="13s" repeatCount="indefinite"/></circle></g>
+<rect x="200" y="62" width="800" height="256" rx="26" fill="url(#gl)" stroke="#fff" stroke-opacity=".28"/><path d="M200 120 Q420 62 640 62 H1000" fill="none" stroke="#fff" stroke-opacity=".12"/>
+<text x="600" y="186" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="88" font-weight="800" fill="#fff5f3" letter-spacing="2">b66</text>
+<text x="600" y="222" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" letter-spacing="6" fill="#ffc2cb">FULL-STACK · CREATIVE DEVELOPER</text>
+<g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#fff5f3" text-anchor="middle">
+<rect x="372" y="254" width="92" height="30" rx="15" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".25"/><text x="418" y="274">Next.js</text>
+<rect x="476" y="254" width="72" height="30" rx="15" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".25"/><text x="512" y="274">Rust</text>
+<rect x="560" y="254" width="94" height="30" rx="15" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".25"/><text x="607" y="274">Three.js</text>
+<rect x="666" y="254" width="82" height="30" rx="15" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".25"/><text x="707" y="274">Tauri</text></g></svg>
