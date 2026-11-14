@@ -5,7 +5,7 @@
 <tr>
 <td width="372" valign="top" align="center">
 
-<img src="assets/banner-sun.svg" width="360" alt="b66 crimson pinstripe tailored hero" />
+<img src="assets/banner-sun.svg" width="360" alt="b66 crimson 3D cubes hero" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=5Y3D-Bilal&label=VIEWS&color=ff4d5a&labelColor=140a0c&style=for-the-badge" alt="profile views" />
@@ -15,7 +15,7 @@
 <td valign="top">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=700&color=ff4d5a&background=00000000&center=true&vCenter=true&width=460&lines=Tailored%20web%20apps%20%C2%B7%20Next.js%20%2B%20TypeScript;Desktop%20apps%20%C2%B7%20Tauri%20%2B%20Rust;3D%20%26%20motion%20%C2%B7%20Three.js%20%2B%20GSAP;APIs%20%C2%B7%20Node%2C%20Bun%20%26%20MongoDB" alt="Tailored web apps · Next.js + TypeScript · Desktop apps · Tauri + Rust · 3D &amp; motion · Three.js + GSAP · APIs · Node, Bun &amp; MongoDB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=700&color=ff4d5a&background=00000000&center=true&vCenter=true&width=460&lines=Sharp%20web%20apps%20%C2%B7%20Next.js%20%2B%20TypeScript;Desktop%20apps%20%C2%B7%20Tauri%20%2B%20Rust;3D%20%26%20motion%20%C2%B7%20Three.js%20%2B%20GSAP;APIs%20%C2%B7%20Node%2C%20Bun%20%26%20MongoDB" alt="Sharp web apps · Next.js + TypeScript · Desktop apps · Tauri + Rust · 3D &amp; motion · Three.js + GSAP · APIs · Node, Bun &amp; MongoDB" />
 </p>
 
 <img src="assets/h-sun-about.svg" width="100%" alt="The Fitting" />
