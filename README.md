@@ -34,7 +34,7 @@
 ## `03 — STACK`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,laravel,rust,python,c,cpp,cs,cmake,lua,html,css,react,nextjs,tailwind,vite,threejs,sass,nodejs,express,bun,tauri,qt,mongodb,firebase,appwrite,docker,kubernetes,vercel,git,github,blender,vitest,vscode&perline=10" alt="TypeScript, JavaScript, Rust, Python, C++, Java, HTML, CSS, React, Next.js, Tailwind, Vite, Three.js, Sass, Node.js, Express, Bun, Tauri, Qt, MongoDB, Firebase, Appwrite, Docker, Kubernetes, Vercel, Git, GitHub, Blender, Vitest, VS Code" />
+  <img src="assets/skills-sat.svg" width="100%" alt="Tech stack" />
 </p>
 
 ## `04 — STATS`
@@ -43,6 +43,3 @@
   <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=050505&ring=c6ff00&fire=c6ff00&currStreakLabel=c6ff00&sideLabels=f4f4f4&currStreakNum=f4f4f4&sideNums=f4f4f4&dates=6b6b6b&stroke=1e1e1e" alt="Streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=5Y3D-Bilal&bg_color=050505&color=6b6b6b&line=c6ff00&point=f4f4f4&area=true&area_color=c6ff00&hide_border=true" alt="Contribution activity graph" />
-</p>

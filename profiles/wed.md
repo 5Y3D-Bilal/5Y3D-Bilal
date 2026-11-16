@@ -40,6 +40,3 @@
   <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=120403&ring=ff7a2e&fire=ff7a2e&currStreakLabel=ff7a2e&sideLabels=ffe6d5&currStreakNum=ffe6d5&sideNums=ffe6d5&dates=9a6a55&stroke=3a1a10" alt="Streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=5Y3D-Bilal&bg_color=120403&color=9a6a55&line=ff7a2e&point=ffe6d5&area=true&area_color=ff7a2e&hide_border=true" alt="Contribution activity graph" />
-</p>

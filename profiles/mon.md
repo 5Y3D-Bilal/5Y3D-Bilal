@@ -52,6 +52,3 @@ status  : frontend at heart, full-stack in practice
   <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=0a0708&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d&sideLabels=f3e6d6&currStreakNum=f3e6d6&sideNums=f3e6d6&dates=7a4a4a&stroke=2a1114" alt="Streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=5Y3D-Bilal&bg_color=0a0708&color=7a4a4a&line=ff4d4d&point=f3e6d6&area=true&area_color=ff4d4d&hide_border=true" alt="Contribution activity graph" />
-</p>
