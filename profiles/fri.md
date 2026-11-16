@@ -32,11 +32,6 @@
 <img src="assets/h-fri-record.svg" width="100%" alt="Leaderboard" />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Y3D-Bilal&show_icons=true&hide_border=true&bg_color=12020a&title_color=ff2e63&icon_color=ff2e63&text_color=fff0ee&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Y3D-Bilal&layout=compact&hide_border=true&bg_color=12020a&title_color=ff2e63&text_color=fff0ee&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=12020a&ring=ff2e63&fire=ff2e63&currStreakLabel=ff2e63&sideLabels=fff0ee&currStreakNum=fff0ee&sideNums=fff0ee&dates=9a6075&stroke=3a1226" alt="Streak" />
 </p>
 

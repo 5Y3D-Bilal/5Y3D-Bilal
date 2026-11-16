@@ -32,11 +32,6 @@
 <img src="assets/h-wed-record.svg" width="100%" alt="Burn rate" />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Y3D-Bilal&show_icons=true&hide_border=true&bg_color=120403&title_color=ff7a2e&icon_color=ff7a2e&text_color=ffe6d5&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Y3D-Bilal&layout=compact&hide_border=true&bg_color=120403&title_color=ff7a2e&text_color=ffe6d5&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=120403&ring=ff7a2e&fire=ff7a2e&currStreakLabel=ff7a2e&sideLabels=ffe6d5&currStreakNum=ffe6d5&sideNums=ffe6d5&dates=9a6a55&stroke=3a1a10" alt="Streak" />
 </p>
 

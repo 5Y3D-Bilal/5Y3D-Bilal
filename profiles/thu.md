@@ -42,11 +42,6 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Y3D-Bilal&show_icons=true&hide_border=true&bg_color=16050b&title_color=ff4f7b&icon_color=ff4f7b&text_color=fff0f2&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Y3D-Bilal&layout=compact&hide_border=true&bg_color=16050b&title_color=ff4f7b&text_color=fff0f2&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=16050b&ring=ff4f7b&fire=ff4f7b&currStreakLabel=ff4f7b&sideLabels=fff0f2&currStreakNum=fff0f2&sideNums=fff0f2&dates=9a6a75&stroke=3a1420" alt="Streak" />
 </p>
 

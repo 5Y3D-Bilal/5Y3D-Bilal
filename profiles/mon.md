@@ -44,11 +44,6 @@ status  : frontend at heart, full-stack in practice
 ```
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Y3D-Bilal&show_icons=true&hide_border=true&bg_color=0a0708&title_color=ff4d4d&icon_color=ff4d4d&text_color=f3e6d6&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Y3D-Bilal&layout=compact&hide_border=true&bg_color=0a0708&title_color=ff4d4d&text_color=f3e6d6&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=0a0708&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d&sideLabels=f3e6d6&currStreakNum=f3e6d6&sideNums=f3e6d6&dates=7a4a4a&stroke=2a1114" alt="Streak" />
 </p>
 
