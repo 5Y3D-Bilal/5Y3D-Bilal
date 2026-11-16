@@ -14,11 +14,9 @@
 
 ## `01 — ABOUT`
 
-- 🇵🇰 Developer from **Pakistan**, frontend at heart, full-stack in practice
-- ⚛️ Web apps with **Next.js, React, TypeScript & Tailwind**
-- 🦀 Desktop & mobile apps with **Tauri + Rust**, plus **C++ / Qt**
-- 🧊 3D & motion with **Three.js, GSAP** and **Blender**
-- 🛠️ Backends with **Node, Bun, Express, MongoDB & Firebase**
+<p align="center">
+  <img src="assets/about-sat.svg" width="100%" alt="About: developer from Pakistan; Next.js, React, TypeScript, Tailwind; Tauri, Rust, C++, Qt; Three.js, GSAP, Blender; Node, Bun, Express, MongoDB, Firebase" />
+</p>
 
 ## `02 — TOKEN FLEX`
 
