@@ -27,9 +27,14 @@
 <p align="center">
   <img src="assets/token-flex.svg" width="100%" alt="Token Flex" />
 </p>
+<p align="center">
+  <img src="assets/commit-flex.svg" width="100%" alt="Commit Flex" />
+</p>
 <!-- TOKEN-FLEX:END -->
 
 <img src="assets/h-wed-record.svg" width="100%" alt="Burn rate" />
+
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=120403&ring=ff7a2e&fire=ff7a2e&currStreakLabel=ff7a2e&sideLabels=ffe6d5&currStreakNum=ffe6d5&sideNums=ffe6d5&dates=9a6a55&stroke=3a1a10" alt="Streak" />

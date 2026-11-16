@@ -26,6 +26,9 @@
 <p align="center">
   <img src="assets/token-flex.svg" width="100%" alt="Token Flex: 12.78B tokens burned" />
 </p>
+<p align="center">
+  <img src="assets/commit-flex.svg" width="100%" alt="Commit Flex" />
+</p>
 <!-- TOKEN-FLEX:END -->
 
 ## `03 — STACK`

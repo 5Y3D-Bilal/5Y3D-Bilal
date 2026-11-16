@@ -35,11 +35,16 @@
 <p align="center">
   <img src="assets/token-flex.svg" width="100%" alt="Token Flex" />
 </p>
+<p align="center">
+  <img src="assets/commit-flex.svg" width="100%" alt="Commit Flex" />
+</p>
 <!-- TOKEN-FLEX:END -->
 
 <p align="center">
   <img src="assets/h-thu-record.svg" width="70%" alt="Stats" />
 </p>
+
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=16050b&ring=ff4f7b&fire=ff4f7b&currStreakLabel=ff4f7b&sideLabels=fff0f2&currStreakNum=fff0f2&sideNums=fff0f2&dates=9a6a75&stroke=3a1420" alt="Streak" />
