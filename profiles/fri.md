@@ -37,6 +37,6 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=12020a&ring=ff2e63&fire=ff2e63&currStreakLabel=ff2e63&sideLabels=fff0ee&currStreakNum=fff0ee&sideNums=fff0ee&dates=9a6075&stroke=3a1226" alt="Streak" />
+  <img src="assets/streak-flex.svg" width="100%" alt="Streak" />
 </p>
 

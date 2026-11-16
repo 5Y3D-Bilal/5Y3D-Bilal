@@ -49,6 +49,6 @@ status  : frontend at heart, full-stack in practice
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=0a0708&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d&sideLabels=f3e6d6&currStreakNum=f3e6d6&sideNums=f3e6d6&dates=7a4a4a&stroke=2a1114" alt="Streak" />
+  <img src="assets/streak-flex.svg" width="100%" alt="Streak" />
 </p>
 

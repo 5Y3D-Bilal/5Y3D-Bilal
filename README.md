@@ -40,6 +40,6 @@
 ## `04 — STATS`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=5Y3D-Bilal&hide_border=true&background=050505&ring=c6ff00&fire=c6ff00&currStreakLabel=c6ff00&sideLabels=f4f4f4&currStreakNum=f4f4f4&sideNums=f4f4f4&dates=6b6b6b&stroke=1e1e1e" alt="Streak" />
+  <img src="assets/streak-flex.svg" width="100%" alt="Streak" />
 </p>
 
